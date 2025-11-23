@@ -112,12 +112,6 @@ Esses filtros permitem construir narrativas mais detalhadas, comparando período
 * **Banco de Dados (Fictício)** – base simulada para consultas e visualizações
 * **Consultas SQL / Query Builder** – dependendo das necessidades das visualizações
 
----
-
-## 🔧 Como Reproduzir o Dashboard
-* Acesse o Link abaixo 
-
-http://localhost:3000/public/dashboard/a0b2cce7-0f5d-4c76-8557-b8d287c1d5e8
 
 ---
 
